@@ -28,3 +28,7 @@ https://www.w3schools.com/
 2. download the files from above into the newly created directory
 3. open the files in the code editor
 4. load index.html in a new browser window
+
+## q&a ##
+
+ask your question and i'll try to answer it :)
