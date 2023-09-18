@@ -25,6 +25,6 @@ https://www.w3schools.com/
 ## hello world ##
 
 1. in your home (working directory) create the following directories: `techlabs/www`
-2. download the files from hello_world into this directory
+2. download the files from above into the newly created directory
 3. open the files in the code editor
 4. load index.html in a new browser window
