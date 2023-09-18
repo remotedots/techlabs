@@ -32,3 +32,12 @@ https://www.w3schools.com/
 ## q&a ##
 
 ask your question and i'll try to answer it :)
+
+## the addressbook ##
+
+will be a project together with UX and backend.
+
+- work in teams
+- collaborate with other teams
+- understand the UX and the backend "language"
+## 
