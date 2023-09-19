@@ -1,4 +1,4 @@
-# techlabs
+# quickstart
 
 ### code editors ###
 
