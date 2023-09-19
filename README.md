@@ -16,20 +16,13 @@ or any other editor with synthax highlighting
 
 a web browser that also has developer tools (firefox, chrome, safari)
 
-### documentation ###
+### online documentation ###
 
 https://developer.mozilla.org/en-US/docs/Web
 
 https://www.w3schools.com/
 
-### hello world ###
-
-1. in your home (working directory) create the following directories: `techlabs/www`
-2. download the files from above into the newly created directory
-3. open the files in the code editor
-4. load index.html in a new browser window
-
-### q&a ###
+### q&a's ###
 
 ask your question and i'll try to answer it :)
 
